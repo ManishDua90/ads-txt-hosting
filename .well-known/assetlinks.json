@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yellowbird.deviceid",
+      "sha256_cert_fingerprints": [
+        "84:88:3C:F3:BF:71:6B:C0:75:89:74:8A:FB:E9:62:91:1C:0D:03:EB:47:B4:66:AA:96:65:3C:1D:6D:CF:15:EF"
+      ]
+    }
+  }
+]
